@@ -1,0 +1,60 @@
+🎯 What is the purpose of this project?
+
+The main purpose is to help a company answer:
+
+“Do we have the right products, in the right quantity, at the right location, at the right time?”
+
+Your project analyzes:
+
+📦 Inventory — Do we have too much or too little stock?
+🔮 Forecasting — Is predicted demand close to actual demand?
+🚚 Logistics — Which transportation methods and suppliers have longer lead times?
+🏭 Suppliers — Which suppliers perform better?
+🏢 Warehouses — Which warehouses hold the most inventory or generate the most sales?
+💰 Sales — Which products/categories/regions generate the most revenue?
+💼 Why is it useful for your portfolio?
+
+This is stronger than a basic SELECT/GROUP BY project because it demonstrates several business analyst/data analyst skills:
+
+Skill	What you demonstrate
+SQL	Business data analysis
+PostgreSQL	Database management
+Window Functions	Advanced analytics
+Power BI	Dashboard development
+DAX	KPI calculations
+Inventory Analysis	Real business problem
+Forecast Analysis	Demand planning
+Supplier Analysis	Vendor performance
+Data Cleaning	Data quality
+Business Insights	Decision-making
+🧠 Example of a real business decision
+
+Suppose your analysis finds:
+
+Product A
+Forecast Demand       = 1,000
+Actual Demand         = 1,350
+Inventory             = 400
+Reorder Point         = 800
+
+Your analysis can identify:
+
+🚨 High Inventory Risk
+
+Actual demand is higher than forecast, while inventory is already below the reorder point.
+
+A business could use this insight to increase inventory or adjust future demand forecasts.
+
+That's the difference between simply showing data and providing a business recommendation.
+
+📊 What you can say in an interview
+
+“I developed an end-to-end Supply Chain Analytics project using PostgreSQL, SQL, and Power BI. I analyzed demand forecasts versus actual demand, inventory levels, reorder points, supplier performance, warehouse operations, transportation lead times, and sales. The objective was to identify inventory risks, forecasting gaps, and operational opportunities that could support better supply-chain decisions.”
+
+⭐ Why I recommend keeping this project
+
+For your Data Analyst portfolio, this project gives you a different domain from your HR, car sales, and other analytics projects.
+
+Your portfolio can show experience across:
+
+HR → Automotive → Supply Chain → Finance → Customer Analytics
